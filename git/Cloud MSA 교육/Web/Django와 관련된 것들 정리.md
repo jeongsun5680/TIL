@@ -2,6 +2,8 @@
 
 
 
+
+
 ### python 설치는 했는데 ( cmd / shell ) 등에서 python 명령어가 들지 않을 때
 
 - `python --version`을 아무리 쳐도 Python이라고만 떴다.
@@ -12,10 +14,14 @@
 
 
 
+
+
 ### Django를 설치하는 순서
 
 - `$ python -m pip install --upgrade pip` : Django를 설치하는 데 필요한 pip을 최신 버전으로 업그레이드 한다. 사실, Django를 먼저 설치했을 때, pip의 업데이트가 필요하면 `Warning`으로 업데이트 하라고 명령어까지 친절하게 알려준다.
 - `$ python -m pip install Django` : Django 설치
+
+
 
 
 
@@ -85,10 +91,14 @@
 
 
 
+
+
 ### 웹서버 실행
 
 - `$ python manage.py runserver` : 서버가 실행 됨
 - `Ctrl` + `C` : 서버 실행 종료
+
+
 
 
 
@@ -128,6 +138,8 @@
 5. `app`을 생성할 때마다 `hello/settings.py`의 `INSTALLED_APPS`에 새롭게 만든 앱을 추가
 6. `hello_app` 하위에 `/templates/~.html` 이렇게 만들어서 view 역할을 하게 하자
 7. `urls.py` : request 들어오는 요청 url별로 views.py의 함수 mapping 추가
+
+
 
 
 
