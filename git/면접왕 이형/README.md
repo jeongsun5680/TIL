@@ -1,4 +1,4 @@
-#### [11](/jeongsun5680/TIL/git/면접왕-이형/11.md)
+#### [11](/jeongsun5680/TIL/blob/master/git/면접왕%20이형/11.md)
 
 - 주인정신과 책임의식
 - 꿈이 뭔가요?
