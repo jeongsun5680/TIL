@@ -1,4 +1,4 @@
-#### [11](/jeongsun5680/TIL/blob/master/git/면접왕%20이형/11.md)
+#### [11](https://github.com/jeongsun5680/TIL/blob/master/git/%EB%A9%B4%EC%A0%91%EC%99%95%20%EC%9D%B4%ED%98%95/11.md)
 
 - 주인정신과 책임의식
 - 꿈이 뭔가요?
@@ -8,7 +8,7 @@
 
 
 
-#### [12](12)
+#### [12](https://github.com/jeongsun5680/TIL/blob/master/git/%EB%A9%B4%EC%A0%91%EC%99%95%20%EC%9D%B4%ED%98%95/12.md)
 
 - 흥미/관심사가 무엇인가요?
 
